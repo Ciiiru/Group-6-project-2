@@ -2,9 +2,9 @@
 ## FOOD SECURITY MONITORING TOOL FOR KARAMOJA REGION, UGANDA.
 ## Introduction
 
-As a Data Analyst, I have developed an interactive visualization tool using Tableau to display the 2017 crop season results for sorghum and maize yields in Karamoja, Uganda. It allows visualization at both district and sub-county levels, highlighting areas of low productivity to prioritize interventions.
+As a Data Analyst, I have developed an interactive visualization tool using Tableau to display the 2017 crop season results for sorghum and maize yields in Karamoja, Uganda. It enables visualization at both district and sub-county levels, highlighting areas of low productivity to inform targeted interventions.
 ## Data Source
-The dashboard is built using the provided datasets: shapefiles for Uganda districts and subcounties, crop type maps for sorghum and maize, and tabular data on yields and population.
+The dashboard is built using the provided datasets, including shapefiles for Uganda's districts and subcounties, crop type maps for sorghum and maize, and tabular data on yields and population.
 ## Methods
 This project uses descriptive analysis, which provides a useful overview of Karamoja's food monitoring.
 ## Results
@@ -25,7 +25,7 @@ Crop Diversification
 Monitoring Enhancements
 
 ##### Other documents include:
-https://public.tableau.com/app/profile/charity.wanjiru7295/viz/GROUP6TABLEAU/Sub-Countiesdashboard?publish=yes
+https://public.tableau.com/app/profile/charity.wanjiru7295/viz/GROUP6TABLEAU/Sub-Countiesdashboard
 
 ## For more Information
 Send an email to the emails provided:
